@@ -1,0 +1,7 @@
+[package]
+name = "construct-supply-chain"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: construct supply chain from git repos through validation, compilation, and deployment. Each stage has a queue, rejection rate, and throughput metrics."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/construct-supply-chain"
